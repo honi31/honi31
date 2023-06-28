@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
+
+
 <div><h3>📚 STACKS</h3></div>
 
 <div align=center>  
@@ -11,7 +15,6 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
 
 <!--
 **honi31/honi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
