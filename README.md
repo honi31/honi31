@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![result_4](https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/c38ddbc45afe49af9dcd81f330258a82/de6d15b1ecd946f6ba7318ac4e9c99ff_1610777868.gif)
+![result_4](https://mblogthumb-phinf.pstatic.net/MjAxODA1MDRfMTEg/MDAxNTI1NDEyMjk0MTAz.jN_Wvxq1NDZZgMlf8vL4CcxTXOXCleoBIUP1Ol28WSEg.xVThrACXBOikCkW8z5_bjyEaS6fKwGb3vvAnuazOSpEg.GIF.erown_s/%EC%A7%B1%EA%B5%AC%EC%9B%80%EC%A7%A47.gif?type=w800)
 <div><h3>📚 STACKS</h3></div>
 
 <div align=center>  
