@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
 
-
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=dark)](https://github.com/honi31/honi31)
 <!--
 **honi31/honi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
