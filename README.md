@@ -13,7 +13,13 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
+
+  
+
+
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default)](https://github.com/honi31/honi31)
+![Honi's GitHub stats](https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default)
+
 <!--
 **honi31/honi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
