@@ -13,10 +13,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
-
-  
-
-
+<div><h3>📌 my github stats</h3></div>
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default)](https://github.com/honi31/honi31)
 
 
