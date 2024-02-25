@@ -15,7 +15,7 @@
 
 
 
-<h3>📌 my github stats</h3>
+<h3>📌 My Github Stats</h3>
 
 
 
