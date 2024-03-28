@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hoeon's%20Github!&fontSize=90)
+<div align="center">
+  <div><h3>📚 STACKS</h3></div>
 
-<div><h3>📚 STACKS</h3></div>
 
-<div align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -15,13 +15,14 @@
 </div>
 
 
+<div align="center">
+  <h3>📌 My Github Stats</h3>
 
-<h3>📌 My Github Stats</h3>
 
 
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default)](https://github.com/honi31/honi31)
-
+  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default)](https://github.com/honi31/honi31)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default)
+</div>
 
 <!--
 **honi31/honi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
