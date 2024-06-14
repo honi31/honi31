@@ -27,11 +27,12 @@
 <div align="center">
   <h3>📌 My Github Stats</h3>
 
-
-
-  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default)](https://github.com/honi31/honi31)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default)
+  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default" style="height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default" style="height: 200px;"/>
+  </div>
 </div>
+
 
 <!--
 **honi31/honi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
