@@ -29,8 +29,8 @@
     <h3>📌 My Github Stats</h3>
   </p>
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default" style="height: 180px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default" style="height: 180px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default" style="height: 185px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default" style="height: 185px;"/>
   </div>
 </div>
 
