@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 </p>
+
+  <br />
 <p align="center">
   <div><h3>⚒️ Tools</h3></div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
@@ -22,6 +24,8 @@
 </p>
 
 </div>
+
+<br />
 
 
 <div align="center">
