@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Welcome%20to%20Hoeon's%20Github🤩&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Hoeon's%20Github🤩&fontSize=40&fontColor=#fff)
 <div align="center">
   <div><h3>📚 Tech Stacks</h3></div>
 <p align="center">
