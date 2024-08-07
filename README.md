@@ -1,38 +1,19 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20Hoeon's%20Github🤩&fontSize=40&fontColor=#ffffff)
-<div align="center">
-  <div><h3>📚 Tech Stacks 📚</h3></div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
-  <br />
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-</p>
+# Honi🍀 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoni31%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![JavaScript Badge](https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=Javascript&logoColor=white)](https://www.javascriptlang.org/) [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/) [![NextJs Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)](https://Nextjs.org/)
 
-  <br />
-<p align="center">
-  <div><h3>⚒️ Tools ⚒️</h3></div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/VisualStudioCode-06B6D4?style=flat-square&logo=VSCode&logoColor=white"/></a>
-  <br />  
-</p>
+Frontend Developer !
 
-</div>
-
-<br />
-
-
-<div align="center">
-  <h3>📌 My Github Stats 📌</h3>
+<div align="left">
+  <h3>📌 My Github Stats</h3>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&langs_count=10&layout=compact&theme=default" style="height: 185px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default&count_private=true" style="height: 185px;"/>
+  </div>
+</div>
+
+<div align="left">
+  <h3>📌 BOJ</h3>
+  <div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
   </div>
 </div>
 
