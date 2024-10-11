@@ -6,14 +6,14 @@
 
 
 <div align="left">
-  <h3>📌 My Github Stats</h3>
+  <h3> - My Github Stats</h3>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=honi31&show_icons=true&theme=default&count_private=true" style="height: 185px;"/>
   </div>
 </div>
 
 
-  <h3>🌟 BOJ</h3>
+  <h3> - BOJ</h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
 
