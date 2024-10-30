@@ -12,8 +12,8 @@
   </div>
 </div>
 
-
-  <h3> - BOJ</h3>
+<!--
+ <h3> - BOJ</h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
 
