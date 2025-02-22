@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&theme=default&layout=compact" width="34%"/>
   </div>
 </p>
-
+<!--
  <h3> BOJ</h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=winner020531)](https://solved.ac/winner020531/)
