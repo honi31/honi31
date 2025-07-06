@@ -5,7 +5,7 @@
 
 ## 🎓 Education
 #### Hankuk University of Foreign Studies (2021.03~)
-
+## 🎓 Stacks
 <p align="left">
   <h3>My Github Stats</h3>
   <div style="display: flex;">
@@ -13,6 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi31&theme=default&layout=compact" width="34%"/>
   </div>
 </p>
+
 <!--
  <h3> BOJ</h3>
 
