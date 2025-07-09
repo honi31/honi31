@@ -5,7 +5,7 @@
 
 ## 🎓 Education
 #### Hankuk University of Foreign Studies (2021.03~)
-## 🎓 Stacks
+## 📕 Stacks
 <p align="left">
   <h3>My Github Stats</h3>
   <div style="display: flex;">
