@@ -3,7 +3,7 @@
 
 
 
-## 🎓 Education
+## Education
 #### Hankuk University of Foreign Studies (2021.03~)
 
 ## Stacks
