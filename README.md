@@ -2,10 +2,6 @@
  <h3>👩🏻‍💻 Frontend Developer</h3>
 
 
-
-## Education
-#### Hankuk University of Foreign Studies (2021.03~)
-
 ## Stacks
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=Javascript&logoColor=white)](https://ecma-international.org/) [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/) [![NextJs Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)](https://Nextjs.org/)
 <p align="left">
