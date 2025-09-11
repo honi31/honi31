@@ -1,4 +1,4 @@
-# Honi 🐣
+# Honi 
  <h3>👩🏻‍💻 Frontend Developer</h3>
 
 
