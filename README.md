@@ -1,4 +1,4 @@
-# Honi 
+# 🌱 손호언 Honi [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/) [![NextJs Badge](https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=next.js&logoColor=white)](https://reactjs.org/) 
  <h3>👩🏻‍💻 Frontend Developer</h3>
 
 <!---
