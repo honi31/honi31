@@ -1,7 +1,13 @@
 # 🌱 손호언 Honi [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/) [![NextJs Badge](https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=next.js&logoColor=white)](https://reactjs.org/) 
  <h3>Frontend Developer</h3>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi31)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=honi31&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/honi31"
+  width="600"
+  height="300"
+/>
+</a>
 <!---
 ## Stacks
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=Javascript&logoColor=white)](https://ecma-international.org/) [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/) [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/) [![NextJs Badge](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)](https://Nextjs.org/)
